@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{09400445-B07E-4454-A1A9-A0EFEF7BF80D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LibraryApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibraryApp/Controllers/Admin/BookController.cs">
+    <Files>
+      <File FileName="Service/Services/Interfaces/IAccountService.cs" />
+      <File FileName="Service/Services/AccountService.cs" />
+      <File FileName="LibraryApp/Controllers/Admin/AccountController.cs" />
+      <File FileName="LibraryApp/Controllers/UI/AccountController.cs" />
+      <File FileName="LibraryApp/appsettings.Development.json" />
+      <File FileName="Service/DTOs/Account/LoginDto.cs" />
+      <File FileName="Service/DTOs/Account/RegisterDto.cs" />
+      <File FileName="Service/Helpers/Account/LoginResponse.cs" />
+      <File FileName="Service/Helpers/Account/JwtSettings.cs" />
+      <File FileName="LibraryApp/Program.cs" />
+      <File FileName="LibraryApp/Controllers/Admin/BookController.cs" Line="14" Column="1" />
+      <File FileName="LibraryApp/Controllers/Admin/AuthorController.cs" />
+      <File FileName="Service/Helpers/Exceptions/UnauthorizeException.cs" />
+      <File FileName="Service/Helpers/Exceptions/ForbiddenException.cs" />
+      <File FileName="Service/Helpers/Exceptions/NotFoundException.cs" />
+      <File FileName="LibraryApp/Middlewares/ExceptionHandlingMiddleware.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryApp" expanded="True">
+            <Node name="Domain" expanded="True" />
+            <Node name="LibraryApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="BookController.cs" selected="True" />
+                </Node>
+                <Node name="UI" expanded="True" />
+              </Node>
+              <Node name="Middlewares" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="DTOs" expanded="True">
+                <Node name="Account" expanded="True" />
+              </Node>
+              <Node name="Helpers" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Enums" expanded="True" />
+                <Node name="Exceptions" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
